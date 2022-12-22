@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@400&family=Prompt:wght@400&display=swap');
+:root {
+    --main-color: #17967A;
+    --font-color-detail:#9C9898;
+    --font-color-order:#3B6DEF;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mitr', sans-serif;
+    font-family: 'Prompt', sans-serif;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
